@@ -1,6 +1,12 @@
 
+### Run Server ###
 
-# Run API on Postman
+  go run main.go
+
+### Run Test ###
+  go test ./...
+
+### Run API on Postman ###
 
 ### Tranfer ###
 ```
